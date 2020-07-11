@@ -1,7 +1,7 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://roleupjobboard.github.io',
+  url: 'https://doc.roleup.com',
   baseUrl: '/documentation/',
   favicon: 'img/favicon.ico',
   organizationName: 'roleupjobboard',
