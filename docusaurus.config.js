@@ -2,7 +2,7 @@ module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
   url: 'https://doc.roleup.com',
-  baseUrl: '/documentation/',
+  baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'roleupjobboard',
   projectName: 'documentation',
