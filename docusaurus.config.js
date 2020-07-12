@@ -20,7 +20,7 @@ module.exports = {
         {
           href: '/',
           activeBasePath: '/',
-          label: 'Doc',
+          label: 'Docs',
           position: 'left',
         },
         {

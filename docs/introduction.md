@@ -14,3 +14,5 @@ As it is a SAAS and free, there is others advantages adding up:
 - No need to hire a developer
 - No operational cost
 - etc...
+
+![Example of RoleUp job board](/img/jobboard-example-embedsys.png)
