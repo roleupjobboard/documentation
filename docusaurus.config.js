@@ -1,28 +1,30 @@
 module.exports = {
-  title: 'My Site',
+  title: 'RoleUp Jobboard',
   tagline: 'The tagline of my site',
-  url: 'https://doc.roleup.com',
+  url: 'https://docs.roleup.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'roleupjobboard',
   projectName: 'documentation',
   themeConfig: {
+    disableDarkMode: true,
     navbar: {
-      title: 'My Site',
+      title: 'RoleUp Jobboard',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'RoleUp logo',
         src: 'img/logo.svg',
+        href: 'https://roleup.com/',
+        target: '_self',
       },
       links: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
+          href: '/',
+          activeBasePath: '/',
+          label: 'Doc',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/roleupjobboard/documentation',
           label: 'GitHub',
           position: 'right',
         },
@@ -84,17 +86,12 @@ module.exports = {
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'doc1',
+          routeBasePath: '/',
+          homePageId: 'introduction',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/roleupjobboard/documentation/edit/src/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
