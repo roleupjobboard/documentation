@@ -23,6 +23,6 @@ npm run start
 #### Deploy a new version
 
 ```
-$ GIT_USER=gsempe npm run deploy
+$ GIT_USER=gsempe USE_SSH=true CURRENT_BRANCH=src npm run deploy
 ```
 
