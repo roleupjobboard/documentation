@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="130px" viewBox="0 0 400 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>roleup-jobboard-subdomain</title>
+    <desc>Created with Sketch.</desc>
+    <g id="roleup-jobboard-subdomain" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="400" height="130"></rect>
+        <g id="Group" transform="translate(10.000000, 17.000000)">
+            <text id="https://yourname.rol" font-family="PTMono-Regular, PT Mono" font-size="24" font-weight="normal" letter-spacing="-0.36">
+                <tspan x="0" y="21" fill="#2AA847">https://</tspan>
+                <tspan x="112.32" y="21" fill="#000000">yourname</tspan>
+                <tspan x="224.64" y="21" fill="#B9B9B9">.roleup.com</tspan>
+            </text>
+            <path d="M113,31.913009 C114.553319,36.3521568 116.800525,39.0097035 119.741617,39.8856491 C127.129788,42.0860683 153.545775,39.5030088 160.414687,39.8856491 C164.04412,40.0878307 164.543351,43.6223518 166.693457,46.0391064 C168.5,44.1341011 169.540058,40.0454329 172.807407,39.8856491 C180.206452,39.5238122 212.815965,42.4748819 218.537855,39.9187822 C220.548126,39.0207478 222.368841,36.3521568 224,31.913009" id="Line" stroke="#000000" stroke-linecap="square"></path>
+            <path id="Line-2" d="M166.930507,49.4817251 L167.401262,50.2357231 L172.262341,58.0216019 L172.527141,58.4457257 L171.678894,58.9753254 L171.414094,58.5512016 L167.563,52.384 L167.839562,58.4143112 C168.587751,67.5605019 170.519719,73.9128308 173.6,77.4644116 C177.371677,81.8131759 181.159892,84.7778823 184.959597,86.365747 L185.366752,86.5306071 L185.832275,86.7130584 L185.467373,87.6441041 L185.00185,87.4616529 C180.900089,85.8540602 176.849524,82.7373751 172.844547,78.1196147 C169.666189,74.45495 167.693891,68.1175337 166.893381,59.0841576 L166.84175,58.4779382 L166.564,52.428 L163.29417,58.9228591 L163.069222,59.3693993 L162.176141,58.919502 L162.40109,58.4729618 L166.530598,50.2755743 L166.930507,49.4817251 Z" fill="#000000" fill-rule="nonzero"></path>
+            <text id="The-subdomain" font-family="SFProDisplay-Regular, SF Pro Display" font-size="18" font-weight="normal" letter-spacing="-0.27" fill="#000000">
+                <tspan x="191" y="93">The subdomain</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
