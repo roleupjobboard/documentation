@@ -11,5 +11,7 @@ The first time you go to this section, you'll notice that the live chat is deact
 RoleUp supports multiple live chat options:
 - [a live chat 100% managed by RoleUp](/live-chat-roleup)
 - [tawk.to](/live-chat-tawk-to)
+- [Crisp](/live-chat-crisp)
+- [Drift](/live-chat-drift)
 - [Lemtalk](/live-chat-lemtalk)
 
