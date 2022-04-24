@@ -5,6 +5,7 @@ module.exports = {
     'Customizations': ['configure-texts', 'configure-design'],
     Configuration: [{
       'Live chat': ['live-chat', 'live-chat-roleup', 'live-chat-tawk-to', 'live-chat-crisp', 'live-chat-drift', 'live-chat-lemtalk']
-    }]
+    }],
+    API: ['api-documentation'],
   },
 };
